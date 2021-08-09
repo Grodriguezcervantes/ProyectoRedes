@@ -1,0 +1,23 @@
+{
+  "name": "proyectoredes",
+  "version": "1.0.0",
+  "description": "INTEGRANTES:\r GUILDEN ANDRES RODRIGUEZ CERVANTES",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grodriguezcervantes/ProyectoRedes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Grodriguezcervantes/ProyectoRedes/issues"
+  },
+  "homepage": "https://github.com/Grodriguezcervantes/ProyectoRedes#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
